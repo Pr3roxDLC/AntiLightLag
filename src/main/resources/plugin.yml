@@ -1,0 +1,5 @@
+name: Antilightlag
+version: ${project.version}
+main: me.pr3.antilightlag.Antilightlag
+authors: [Pr3roxDLC]
+description: Shitty plugin 0bOp asked me to do for him, really want to put a backdoor in but 0bOp will find it anyways...
